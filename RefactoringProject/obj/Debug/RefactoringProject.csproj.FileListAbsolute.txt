@@ -1,0 +1,6 @@
+D:\1dotNet\Projects\RefactoringProject\RefactoringProject\bin\Debug\RefactoringProject.exe.config
+D:\1dotNet\Projects\RefactoringProject\RefactoringProject\bin\Debug\RefactoringProject.exe
+D:\1dotNet\Projects\RefactoringProject\RefactoringProject\bin\Debug\RefactoringProject.pdb
+D:\1dotNet\Projects\RefactoringProject\RefactoringProject\obj\Debug\RefactoringProject.csprojResolveAssemblyReference.cache
+D:\1dotNet\Projects\RefactoringProject\RefactoringProject\obj\Debug\RefactoringProject.exe
+D:\1dotNet\Projects\RefactoringProject\RefactoringProject\obj\Debug\RefactoringProject.pdb
